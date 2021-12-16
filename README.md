@@ -1,2 +1,2 @@
-# stiptop
-Site da empresa Stiptop
+# stiptop 
+Página da empresa de tecnologia Stiptop
