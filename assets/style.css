@@ -123,7 +123,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	figure.effect-chico figcaption {padding: 2em;}	
 	figure.effect-oscar figcaption {padding: 20%;}
 	figure.effect-chico figcaption::before{top: 10px;right: 10px;bottom: 10px;left: 10px;}
-	.grid figure.effect-chico p{font-size: 0.6em;line-height: 1.5em;}	
+	.grid figure.effect-chico p{font-size: 0.5em;line-height: 1.5em;}	
 }
 
 
