@@ -160,17 +160,14 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
     height: 65px;
     width: 65px;
     cursor: pointer;
-    background: #34af23;
+    background: #030202;
     color: #FFF;
     font-size: 2.3rem;
     border: 1px solid #f1f1f1;
     animation: pulsar 1.9s ease-out 2s infinite alternate none running;
 	float: left;
 	top: 80%;
-    left: 1%;
-    padding: 10px;
-    z-index: 10000000;}
-
+    left: 5%;}
 
     @keyframes pulsar {
     0% {
