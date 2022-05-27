@@ -725,7 +725,7 @@ figure.effect-marley:hover p {
 /*---------------*/
 
 figure.effect-ruby {
-	background-color: #17819c;
+	background-color: #999999;
 }
 
 figure.effect-ruby img {
@@ -829,8 +829,8 @@ figure.effect-milo:hover p {
 /*---------------*/
 
 figure.effect-dexter {
-	background: -webkit-linear-gradient(top, rgba(37,141,200,1) 0%, rgba(104,60,19,1) 100%);
-	background: linear-gradient(to bottom, rgba(37,141,200,1) 0%,rgba(104,60,19,1) 100%); 
+	background: -webkit-linear-gradient(top, rgba(135, 136, 138) 0%, rgba(135, 136, 138) 100%);
+	background: linear-gradient(to bottom, rgba(135, 136, 138) 0%,rgba(135, 136, 138) 100%); 
 }
 
 figure.effect-dexter img {
